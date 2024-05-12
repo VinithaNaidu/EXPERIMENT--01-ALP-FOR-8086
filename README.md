@@ -1,11 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-#### Name : D.Vinitha Naidu
+#### Name : D.Vinitha
 #### Roll no : 212222230175
-#### Date of experiment : 
-
-
-
-
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
